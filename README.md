@@ -29,9 +29,10 @@ Food Delivery Database System
 ​​**2. Business Analytics​**
 
 ​Using JOIN and GROUP BY operations, the system can generate:
-​Total revenue reports by restaurant or cuisine type.
-​Top-selling menu item analysis.
-​Customer loyalty and spending habits.
+
+1. ​Total revenue reports by restaurant or cuisine type.
+​2. Top-selling menu item analysis.
+​3. Customer loyalty and spending habits.
 
 ### ​**Future Enhancements​**
 ​Implementing Payment Gateway tracking tables.
